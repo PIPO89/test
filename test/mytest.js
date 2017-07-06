@@ -1,7 +1,6 @@
-let request = require('supertest')
+//let request = require('supertest')
 let expect = require('chai').expect;
-
-var assert = require('assert');
+let assert = require('assert');
 
 describe('test.js', () => {
     // it('GET', (done) => {
